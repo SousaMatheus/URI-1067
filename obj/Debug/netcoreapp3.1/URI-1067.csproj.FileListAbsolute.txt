@@ -1,0 +1,13 @@
+C:\Matheus\URI-1067\bin\Debug\netcoreapp3.1\URI-1067.exe
+C:\Matheus\URI-1067\bin\Debug\netcoreapp3.1\URI-1067.deps.json
+C:\Matheus\URI-1067\bin\Debug\netcoreapp3.1\URI-1067.runtimeconfig.json
+C:\Matheus\URI-1067\bin\Debug\netcoreapp3.1\URI-1067.runtimeconfig.dev.json
+C:\Matheus\URI-1067\bin\Debug\netcoreapp3.1\URI-1067.dll
+C:\Matheus\URI-1067\bin\Debug\netcoreapp3.1\URI-1067.pdb
+C:\Matheus\URI-1067\obj\Debug\netcoreapp3.1\URI-1067.csprojAssemblyReference.cache
+C:\Matheus\URI-1067\obj\Debug\netcoreapp3.1\URI-1067.AssemblyInfoInputs.cache
+C:\Matheus\URI-1067\obj\Debug\netcoreapp3.1\URI-1067.AssemblyInfo.cs
+C:\Matheus\URI-1067\obj\Debug\netcoreapp3.1\URI-1067.csproj.CoreCompileInputs.cache
+C:\Matheus\URI-1067\obj\Debug\netcoreapp3.1\URI-1067.dll
+C:\Matheus\URI-1067\obj\Debug\netcoreapp3.1\URI-1067.pdb
+C:\Matheus\URI-1067\obj\Debug\netcoreapp3.1\URI-1067.genruntimeconfig.cache
